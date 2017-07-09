@@ -22,7 +22,7 @@ def drawChar(cur, sDeptName, sDoctorName, p):
             xNextNumber.append(int(row[6]))
         
         
-        #0:科室;1:医生姓名;2:周次;3:周几;4:日期;5:号源;6:小时;7:数据是否生效
+        #0:科室;1:医生姓名;2:周次;3:周几;4:日期;6:号源;7:小时;8:数据是否生效
         #print(row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7])
         
 
